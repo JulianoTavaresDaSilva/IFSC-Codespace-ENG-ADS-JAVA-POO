@@ -1,3 +1,4 @@
+package Aula;
 public class A1_0Teste {
     public static void main(String[] args) {
         // Declaração de variáveis inteiras e reais

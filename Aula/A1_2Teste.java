@@ -1,3 +1,4 @@
+package Aula;
 public class A1_2Teste {
     public static void main(String[] args) {
         // Tipos reais
